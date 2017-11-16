@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['_7ematrix2x2',['~Matrix2x2',['../class_c_o_m_p220_maths_1_1_matrix2x2.html#a28d40d95714dc5a570e52f58a4ba9a25',1,'COMP220Maths::Matrix2x2']]],
-  ['_7ematrix3x3',['~Matrix3x3',['../class_c_o_m_p220_maths_1_1_matrix3x3.html#a9aba61c184f88d77bfb9bfab4a1c27c9',1,'COMP220Maths::Matrix3x3']]],
-  ['_7ematrix4x4',['~Matrix4x4',['../class_c_o_m_p220_maths_1_1_matrix4x4.html#a3089f0f8dd9b58897069e55b9a3f696a',1,'COMP220Maths::Matrix4x4']]]
+  ['vector2',['Vector2',['../class_c_o_m_p220_maths_1_1_vector2.html',1,'COMP220Maths::Vector2'],['../class_c_o_m_p220_maths_1_1_vector2.html#a46af666dceeafdcaed94fafef9a9ba60',1,'COMP220Maths::Vector2::Vector2()'],['../class_c_o_m_p220_maths_1_1_vector2.html#aa9787eaf8f7ae8f1ea557d6102030d61',1,'COMP220Maths::Vector2::Vector2(float, float)'],['../class_c_o_m_p220_maths_1_1_vector2.html#ab815722b647840dacaf13152debe4293',1,'COMP220Maths::Vector2::Vector2(Vector2 &amp;vec)']]],
+  ['vector3',['Vector3',['../class_c_o_m_p220_maths_1_1_vector3.html',1,'COMP220Maths::Vector3'],['../class_c_o_m_p220_maths_1_1_vector3.html#a32c714490446539f281084bdc02b22d3',1,'COMP220Maths::Vector3::Vector3()'],['../class_c_o_m_p220_maths_1_1_vector3.html#ac3a8ca3e1cd187e0b38cff4fc1e5dd65',1,'COMP220Maths::Vector3::Vector3(float, float, float)'],['../class_c_o_m_p220_maths_1_1_vector3.html#ad6888ecb79e10b759be8cd7694fefeac',1,'COMP220Maths::Vector3::Vector3(Vector3 &amp;vec)']]],
+  ['vector4',['Vector4',['../class_c_o_m_p220_maths_1_1_vector4.html',1,'COMP220Maths::Vector4'],['../class_c_o_m_p220_maths_1_1_vector4.html#a12ddfd2478e845be75cadaaa52db7723',1,'COMP220Maths::Vector4::Vector4()'],['../class_c_o_m_p220_maths_1_1_vector4.html#a1b6c138482d1aff602b97e71eb5634fb',1,'COMP220Maths::Vector4::Vector4(float, float, float, float)'],['../class_c_o_m_p220_maths_1_1_vector4.html#abdb15f3c6b18363839522979f92aec3d',1,'COMP220Maths::Vector4::Vector4(Vector4 &amp;vec)']]]
 ];
