@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['quaternion',['Quaternion',['../class_quaternion.html#abcc01358aada56ea5f0db4da18aaf77d',1,'Quaternion::Quaternion()'],['../class_quaternion.html#af1293ea7f1913326a47270aa3a2092fe',1,'Quaternion::Quaternion(float x, float y, float z, float w)'],['../class_quaternion.html#a22a810ae10c1cdbea090ddc1f91949d1',1,'Quaternion::Quaternion(Quaternion &amp;Quaternion)']]]
+  ['perpvector2',['perpVector2',['../class_c_o_m_p220_maths_1_1_vector2.html#a4aaabfcdbebcede7607ca39ca4d23af1',1,'COMP220Maths::Vector2']]]
 ];
